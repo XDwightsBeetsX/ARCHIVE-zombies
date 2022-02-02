@@ -11,4 +11,10 @@ Some issues with rendering large numbers of projectiles causing stuttering.
 - **'WASD'** - move and turn
 - **'J'** - shoot
 
+## Usage
+
+```python
+> python Game.py
+```
+
 ![game](./imgs/game.png)
