@@ -27,7 +27,7 @@ class GameBoard(turtle.Turtle):
 
         wn = turtle.Screen()
         wn.setup(WIDTH, HEIGHT, 0, 0)
-        wn.bgpic("room.gif")
+        wn.bgpic("./imgs/room.gif")
         wn.listen()
         wn.onkeypress(player.move_forward, "w")
         wn.onkeypress(player.move_left, "a")

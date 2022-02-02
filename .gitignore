@@ -1,0 +1,14 @@
+# generated files
+beam-analysis-results
+
+# Dist and Build for packaging
+dist
+build
+*.egg-info
+
+# Editors
+*.vscode
+
+# Caches
+__pycache__
+.pytest_cache
